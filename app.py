@@ -36,7 +36,7 @@ def create_object():
     return render_template("create.html",data=lis)
         
     
-stu=buyer("sivaranjani",23,"ipad",45000,"/static/images/ipad.png")
+stu=buyer("sivarnajani",23,"mac",450000,"/static/images/mac.png")
 
 
 
